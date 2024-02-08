@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id": "A19", "label": "Nuatumbu Housing", "html": "<H3>Nuatumbu Housing</H3><p>Solomon Islands, Solomon Islands</p><p>tags</p><p>image</p><p>image credit</p><p>Community relocation, climate-flexible housing</p><p></p>" }, "geometry": { "type": "Point", "coordinates": [ 157.160102599999988, -7.154313138 ] } },
+{ "type": "Feature", "properties": { "id": "A20", "label": "Te Kura Whare", "html": "<H3>Te Kura Whare</H3><p>Tāneatua, Aotearoa NZ</p><p>tags</p><p>image</p><p>image credit</p><p>Community Centre</p><p></p>" }, "geometry": { "type": "Point", "coordinates": [ 177.0003251, -38.061343786410802 ] } },
+{ "type": "Feature", "properties": { "id": "A63", "label": "San Communities Electrification Progamme", "html": "<H3>San Communities Electrification Progamme</H3><p>Omaheke, Namibia</p><p>tags</p><p>image</p><p>image credit</p><p>Local non-grid electrification project for 90 households and supporting infrastructure. Solar energy will provide for basic electricity needs including lighting, mobile phone charging etc. Solar energy will also be used to  revive existing boreholes in the community.</p><p></p>" }, "geometry": { "type": "Point", "coordinates": [ 20.4781215682913, -21.602128701941801 ] } }
+]
+}

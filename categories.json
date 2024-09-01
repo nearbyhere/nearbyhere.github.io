@@ -1,0 +1,47 @@
+[
+  {
+    "name": "innovation",
+    "categories": [
+      "Bricolage",
+      "Frugal",
+      "Grassroots",
+      "Top-down",
+      "Disruptive"
+    ]
+  },
+  {
+    "name": "funding",
+    "categories": [
+      "Self",
+      "NPO",
+    	"NGO",
+      "Public",
+      "Foriegn",
+      "Private"
+    ]
+  },
+  {
+    "name": "SDGs",
+    "categories": [
+      "SDG1",
+      "SDG2",
+      "SDG3",
+      "SDG4",
+      "SDG5",
+      "SDG6",
+      "SDG7",
+      "SDG8",
+      "SDG9",
+      "SDG10",
+      "SDG12",
+      "SDG13",
+      "SDG14",
+      "SDG15",
+      "SDG16",
+      "SDG17",
+      "SDG18",
+      "SDG19",
+      "SDG20"
+    ]
+  }
+]
